@@ -1,0 +1,14 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "server side rendering practice",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "author": "Melony",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
